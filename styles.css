@@ -18,7 +18,7 @@ p {
 	background-color: white;
 }
 
-#projects {
+.projectTable {
 	color: green;
 	margin-left: auto;
 	margin-right: auto;
