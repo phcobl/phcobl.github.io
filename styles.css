@@ -1,25 +1,27 @@
+.maindiv{
+	margin:40px auto;
+	max-width:650px;
+	line-height:1.6;
+	font-size:18px;
+	color:#444;
+	padding:80px;
+	padding-top: 40px;
+10px;
+background-color: white
+}
+
+h1{
+	line-height:1.2
+}
+
+.container{
+	display: grid;
+	align-items: center; 
+	grid-template-columns: 1fr 1fr 1fr;
+	column-gap: 5px;
+	text-align: left;
+}
+
 body {
   background-color: lightblue;
-}
-
-h1 {
-  color: gray;
-  text-align: left;
-}
-
-p {
-  font-family: verdana;
-  font-size: 20px;
-}
-
-.maindiv {
-	width: 500px;
-	margin: auto;
-	background-color: white;
-}
-
-.projectTable {
-	color: green;
-	margin-left: auto;
-	margin-right: auto;
 }
