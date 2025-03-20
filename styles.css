@@ -3,11 +3,11 @@
 	max-width:650px;
 	line-height:1.6;
 	font-size:18px;
-	color:#444;
+	color: #2b2d42;
 	padding:80px;
 	padding-top: 40px;
-10px;
-background-color: white
+	10px;
+	background-color: #edf2f4
 }
 
 h1{
@@ -22,6 +22,14 @@ h1{
 	text-align: left;
 }
 
+.containertwo{
+	display: grid;
+	align-items: center; 
+	grid-template-columns: 1fr 1fr;
+	column-gap: 5px;
+	text-align: left;
+}
+
 body {
-  background-color: lightblue;
+  background-color: #8d99ae;
 }
